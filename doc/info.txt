@@ -1,0 +1,31 @@
+create config object - https://habr.com/ru/post/692952/
+docker&docker-compose - https://habr.com/ru/post/694872/
+
+
+докер, старт просто - https://medium.com/nuances-of-programming/%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-python-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-582ec5cc0110
+часть 2 - https://medium.com/nuances-of-programming/%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-python-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-ce85a50140c5
+
+https://selectel.ru/blog/what-is-docker/
+
+https://habr.com/ru/post/253877/
+
+багато про основи
+1) https://habr.com/ru/company/ruvds/blog/438796/
+2) https://habr.com/ru/company/ruvds/blog/439978/
+3) https://habr.com/ru/company/ruvds/blog/439980/
+4) https://habr.com/ru/company/ruvds/blog/440658/
+5) https://habr.com/ru/company/ruvds/blog/440660/
+6) https://habr.com/ru/company/ruvds/blog/441574/
+
+
+розуміння технології простірів імен Linux
+https://rtfm.co.ua/ru/what-is-linux-namespaces-primery-na-c-clone-pid-i-net-namespaces/
+
+єлементи докера і їх взаємодія просто
+https://towardsdatascience.com/docker-networking-919461b7f49
+https://towardsdatascience.com/docker-compose-44a8112c850
+
+про docker-compose.yml
+https://habr.com/ru/company/ruvds/blog/450312/
+
+
