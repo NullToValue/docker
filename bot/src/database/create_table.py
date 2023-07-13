@@ -16,7 +16,8 @@ create_message_table = """
 CREATE TABLE IF NOT EXISTS message (
     id SERIAL PRIMARY KEY,
     message_text TEXT,
-    user_id INTEGER NOT NULL,
+    username TEXT,
+    user_id BIGINT NOT NULL,
     message_time TIMESTAMP WITH TIME ZONE
 )
 """   
