@@ -1,18 +1,13 @@
 from psycopg2 import OperationalError, connect
-import os
+from bot.src.settings import config
 
-name = os.environ['POSTGRES_DB']
-user = os.environ['POSTGRES_USER']
-password = os.environ['POSTGRES_PASSWORD']
-host = os.environ['DB_HOST']
-port = os.environ['DB_PORT']
 
 def create_connection(
-        db_name=name,
-        db_user=user,
-        db_pwd=password,
-        db_host=host,
-        db_port=port,
+        db_name=config.POSTGRES_DB,
+        db_user=config.POSTGRES_USER,
+        db_pwd=config.POSTGRES_PASSWORD,
+        db_host=config.DB_HOST,
+        db_port=config.DB_PORT,
 ):
     try:
         print('try to connect')
